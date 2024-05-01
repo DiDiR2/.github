@@ -3,3 +3,15 @@
 No reduction, no gears, no backlash, no friction, ... Just drive!
 
 ![DiDiR2](https://github.com/didir2/cad/pictures/didir2-1.png)
+
+## Download
+
+[CAD files](https://github.com/didir2/cad)
+
+## Author
+
+[Mihai Oltean](https://mihaioltean.github.io)
+
+## License
+
+MIT
