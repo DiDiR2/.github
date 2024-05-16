@@ -1,6 +1,6 @@
 # DiDiR2 - Direct Drive Robot 2
 
-No reduction, no gears, no backlash, no friction, no wear, ... Just drive!
+No reduction, no gears, no backlash, no friction, no wear, no complexity, ... Just drive!
 
 ![DiDiR2](https://github.com/DiDiR2/cad/blob/main/pictures/didir2.png)
 
