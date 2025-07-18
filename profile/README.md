@@ -5,7 +5,7 @@ No reduction, no gears, no backlash, no friction, no wear, no complexity, ... Ju
 The idea is to build the simplest mechanical robots and then try to do with them as many things as possible.
 Less mechanical complexity means less failures.
 
-![DiDiR2](https://github.com/DiDiR2/cad/blob/main/pictures/didir2.png)
+![DiDiR2](https://github.com/DiDiR2/cad/blob/main/v3/pictures/didir2.png)
 
 DiDiR2 has 5 direct drive BLDC motors:
 
@@ -15,7 +15,7 @@ DiDiR2 has 5 direct drive BLDC motors:
 
 ## Download
 
-[CAD files](https://github.com/didir2/cad)
+[CAD files](https://github.com/didir2/v3/cad)
 
 ## Author
 
